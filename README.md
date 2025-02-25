@@ -37,7 +37,7 @@ This project consists of:
 ### 1️⃣ Clone the Repository  
 ```sh
 git clone https://github.com/UlrikN1234/BDS_2025_M3_Exercise3-.git  
-cd business_plan_generator 
+cd BDS_2025_M3_Exercise3- 
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)  
