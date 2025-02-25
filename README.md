@@ -36,8 +36,8 @@ This project consists of:
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/your-username/business-plan-generator.git  
-cd business-plan-generator  
+git clone https://github.com/UlrikN1234/business_plan_generator.git  
+cd business_plan_generator 
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)  
