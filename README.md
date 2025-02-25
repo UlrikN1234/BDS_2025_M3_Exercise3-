@@ -112,6 +112,11 @@ For deploying Streamlit, you can use:
 
 ---
 
+## ⚙️ Nodes 
+
+System Requirements:
+Python Version: 3.12 or lower (Python 3.9+ recommended for compatibility with dependencies)
+
 ## 🤝 Contributions  
 
 Feel free to open an **issue** or submit a **pull request**!  
